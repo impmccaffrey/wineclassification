@@ -1,2 +1,3 @@
 #ignore the big data files
 /data
+.DS_Store

@@ -20,12 +20,12 @@ from kaggle.api.kaggle_api_extended import KaggleApi
 
 
 #%%
-with open('/Users/patrick/.kaggle/kaggle.json') as json_file:  
+with open('/home/patrick/.kaggle/kaggle.json') as json_file:
     api_key = json.load(json_file)
 api = KaggleApi(api_key)
 api.authenticate()
 #Change the working directory to where we want to download our files from Kaggle
-os.chdir('/Users/patrick/Documents/portfolio/Wine Classification/data')
+os.chdir('/home/patrick/repos/wineclassification/data')
 
 
 #%%

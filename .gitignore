@@ -1,4 +1,5 @@
 #ignore the big data files
 /data
 /.vscode
+.wine-ml-venv/
 .DS_Store

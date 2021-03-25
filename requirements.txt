@@ -68,7 +68,7 @@ pytest==5.3.2             # via phik, pytest-pylint
 python-dateutil==2.8.1    # via jupyter-client, kaggle, matplotlib, pandas
 python-slugify==4.0.0     # via kaggle
 pytz==2019.3              # via pandas
-pyyaml==5.2               # via confuse
+pyyaml==5.4               # via confuse
 pyzmq==18.1.1             # via jupyter-client, notebook
 qtconsole==4.6.0          # via jupyter
 requests==2.22.0          # via kaggle

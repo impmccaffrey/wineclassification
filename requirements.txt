@@ -83,7 +83,7 @@ tornado==6.0.3            # via ipykernel, jupyter-client, notebook, terminado
 tqdm==4.40.2              # via kaggle
 traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, jupyter-core, nbconvert, nbformat, notebook, qtconsole
 typed-ast==1.4.0          # via astroid
-urllib3==1.24.3           # via kaggle, requests
+urllib3==1.26.5           # via kaggle, requests
 wcwidth==0.1.7            # via prompt-toolkit, pytest
 webencodings==0.5.1       # via bleach
 widgetsnbextension==3.5.1  # via ipywidgets

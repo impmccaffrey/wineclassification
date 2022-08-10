@@ -41,7 +41,7 @@ mccabe==0.6.1             # via pylint
 missingno==0.4.2          # via pandas-profiling
 mistune==0.8.4            # via nbconvert
 more-itertools==8.0.2     # via pytest, zipp
-nbconvert==5.6.1          # via jupyter, notebook, phik
+nbconvert==6.3.0          # via jupyter, notebook, phik
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
 notebook==6.1.5           # via jupyter, widgetsnbextension
 numba==0.46.0             # via phik

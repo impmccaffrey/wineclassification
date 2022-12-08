@@ -9,7 +9,7 @@ astropy==3.2.3            # via pandas-profiling
 attrs==19.3.0             # via jsonschema, pytest
 backcall==0.1.0           # via ipython
 bleach==3.3.0             # via nbconvert
-certifi==2019.11.28       # via kaggle, requests
+certifi==2022.12.7       # via kaggle, requests
 chardet==3.0.4            # via requests
 confuse==1.0.0            # via pandas-profiling
 cycler==0.10.0            # via matplotlib
